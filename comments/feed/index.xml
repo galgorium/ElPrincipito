@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en El Principito	</title>
-	<atom:link href="https://https://galgorium.github.io/ElPrincipito/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://galgorium.github.io/ElPrincipito/</link>
+	<atom:link href="https://galgorium.github.io/ElPrincipito/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://galgorium.github.io/ElPrincipito/</link>
 	<description>Le Petit Prince</description>
 	<lastBuildDate>Wed, 11 Sep 2024 18:07:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
